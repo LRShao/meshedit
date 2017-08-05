@@ -1025,7 +1025,7 @@ namespace CMU462 {
       // No selection --> no messages.
       if(!selectedFeature.isValid())
       {
-		ostringstream m1;
+		ostringstream m1;	
 		m1 << "No Mesh Feature is selected.";
 
 		drawString(x0, y, m1.str(), size, text_color);y += inc;
