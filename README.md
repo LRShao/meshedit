@@ -31,6 +31,6 @@ http://462cmu.github.io/asst2_meshedit/
 ## Task 6： Resampling via Isotropic Remeshing
 
 **before**
-<img src="http://imglf6.nosdn.127.net/img/L3pWV1luYk9ob2RzMHpOVGJxVzhKb29zZmxsaG9NTmlRekp3czhaMURlVlNSbEY1SkpjaHVBPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" height="300"> **after**
-<img src="http://imglf3.nosdn.127.net/img/L3pWV1luYk9ob2RzMHpOVGJxVzhKcWtLNDQ4TUxwaFk3YTBpYUdnYU5KdXJaU1VDNmJTbjlBPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" height="300">
+<img src="http://imglf6.nosdn.127.net/img/L3pWV1luYk9ob2RzMHpOVGJxVzhKb29zZmxsaG9NTmlRekp3czhaMURlVlNSbEY1SkpjaHVBPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" height="270"> **after**
+<img src="http://imglf3.nosdn.127.net/img/L3pWV1luYk9ob2RzMHpOVGJxVzhKcWtLNDQ4TUxwaFk3YTBpYUdnYU5KdXJaU1VDNmJTbjlBPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" height="270">
 
